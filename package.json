@@ -1,0 +1,25 @@
+{
+  "name": "paquete-estadistico-cf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gauris26/paquete-estadistico-cf.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "Gauris Javier",
+  "license": "MIT",
+  "description": "Funciones de estadisticas y generacion de graficos con Node.js",
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "chart.js": "^4.5.0",
+    "chartjs": "^0.3.24",
+    "chartjs-node-canvas": "^5.0.0"
+  }
+}
