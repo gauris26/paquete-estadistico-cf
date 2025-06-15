@@ -1,5 +1,5 @@
 {
-  "name": "paquete-estadistico-cf",
+  "name": "@gauris26/paquete-estadistico-cf",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
